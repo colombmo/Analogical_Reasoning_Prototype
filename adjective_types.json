@@ -1,0 +1,17 @@
+{"price": ["exorbitant", "cheap", "expensive", "costly", "pricey", "low-priced", "reasonable",
+                        "competitive", "modest"],
+  "temperature": ["scorching", "freezing", "mild", "cool", "cold", "warm", "very warm", "hot", "burning"],
+  "size": ["enormous", "tiny", "small", "large", "little", "big", "huge", "massive", "microscopic"],
+  "quality": ["perfect", "bad","good", "acceptable", "mediocre", "OK", "great", "wonderful"],
+  "difficulty": ["easy", "difficult", "tough", "arduous", "straightforward"],
+  "speed" : ["speedy", "sluggish", "quick", "torpid", "rapid"],
+  "look"  : ["beautiful", "horrible", "dull", "appealing", "charming", "good-looking", "pretty", "stunning", "lovely",
+    "pleasant" ],
+  "quantity" : ["many", "little", "some", "any", "few", "most"],
+  "age_people" : ["old", "young", "adolescent", "youthful", "adult", "mature", "experienced" ],
+  "age_things" : ["antique", "new", "current", "modern", "recent", "old-fashioned", "worn", "outdated"],
+  "brightness" : ["bright", "dark", "shiny", "radiant", "vivid", "light", "dim", "pale", "somber", "dull", "shaded"],
+  "height"  : ["tall", "short", "high-reaching", "rangy", "little", "small", "tiny"],
+  "weight"  : ["heavy", "light", "bulky", "fat", "corpulent", "beefy", "agile", "lightweight"],
+  "width" : ["wide", "slim", "thick", "broad", "ample", "narrow"]
+}
