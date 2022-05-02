@@ -141,8 +141,8 @@ def clean_relations(lst1, lst2):
 def display_precisiated_values(w1, w1p, w2, w2p):
     pattern = "|------------------------------|"
     
-    print(f"Precisiated value of {bcolors.OKBLUE}{w1}{bcolors.ENDC} (defuzzified with MOM): {bcolors.OKBLUE}{w1p}{bcolors.ENDC}")
-    print(f"Precisiated value of {bcolors.OKGREEN}{w2}{bcolors.ENDC} (defuzzified with MOM): {bcolors.OKGREEN}{w2p}{bcolors.ENDC}")
+    print(f"Precisiated value of {bcolors.OKBLUE}{w1}{bcolors.ENDC} (defuzzified): {bcolors.OKBLUE}{w1p}{bcolors.ENDC}")
+    print(f"Precisiated value of {bcolors.OKGREEN}{w2}{bcolors.ENDC} (defuzzified): {bcolors.OKGREEN}{w2p}{bcolors.ENDC}")
     
     if w2p > w1p:
         pos1 = int(w1p*30+1)
