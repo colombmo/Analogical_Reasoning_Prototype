@@ -2,9 +2,9 @@
 
 A prototype for Fuzzy Analogical Reasoning [1], using Colombo and Portmann [2] semantic similarity measure, and ConceptNet.
 
-This prototype demonstrate reasoning by analogy on nouns and concepts, using conceptual analogies, and reasoning by analogy on adjectives, using spectral analogies.
+This prototype demonstrate reasoning by analogy on nouns and concepts, using conceptual analogies, and reasoning by analogy on adjectives, using spectral analogies, as presented in [3].
 
-The latter is the main contribution of this project, and uses a "Computing With Words"-based [3] measure computing how close the meaning of two adjectives are in the spectrum of all the words describing the same feature.
+The latter is the main contribution of this project, and uses a "Computing With Words"-based [4] measure computing how close the meaning of two adjectives are in the spectrum of all the words describing the same feature.
 
 ## Installation
 
@@ -25,4 +25,6 @@ The latter is the main contribution of this project, and uses a "Computing With 
 
 [2] M. Colombo, and E. Portmann. "Semantic Similarity Between Adjectives and Adverbs—The Introduction of a New Measure." Soft Computing for Biomedical Applications and Related Topics. Springer, Cham, 2020. 103-116.
 
-[3] L. A. Zadeh. "Fuzzy logic= computing with words." Computing with Words in Information/Intelligent Systems 1. Physica, Heidelberg, 1999. 3-23.
+[3] M. Colombo, S. D’Onofrio and E. Portmann, "Integration of Fuzzy Logic in Analogical Reasoning: A Prototype," 2020 IEEE 16th International Conference on Intelligent Computer Communication and Processing (ICCP), 2020, pp. 5-11, doi: 10.1109/ICCP51029.2020.9266156.
+
+[4] L. A. Zadeh. "Fuzzy logic= computing with words." Computing with Words in Information/Intelligent Systems 1. Physica, Heidelberg, 1999. 3-23.
